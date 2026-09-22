@@ -1,0 +1,6 @@
+{
+  "name": "درس جمع المتجهات وطرحها - عرض تقديمي تفاعلي",
+  "description": "عرض تقديمي تعليمي متكامل وتفاعلي لدرس جمع المتجهات وطرحها في الفيزياء مع محاكاة بيانية وتصدير إلى PowerPoint و Google Slides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
